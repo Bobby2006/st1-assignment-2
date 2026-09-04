@@ -51,7 +51,7 @@ database, no GUI.
 
 **AI response:**
 
-\`\`\`python
+```python
 appointments = []
 
 def add_appointment(patient, practitioner, time):
@@ -77,7 +77,7 @@ add_appointment("Alice Smith", "Dr. John Doe", "2024-07-20 10:00 AM")
 add_appointment("Bob Johnson", "Dr. Jane Roe", "2024-07-20 11:30 AM")
 
 show_appointments()
-\`\`\`
+```
 
 ## Evaluate
 
